@@ -1,0 +1,8 @@
+#ifndef UTILITARIOS_H_INCLUDED
+#define UTILITARIOS_H_INCLUDED
+#include <GL/glut.h>
+
+extern GLfloat WHITE[3], BLACK[3], BLUE[3], GREEN[3], RED[3], YELLOW[3],PURPLE[3], CIANO[3], ORANGE[3];
+
+
+#endif // UTILITARIOS_H_INCLUDED

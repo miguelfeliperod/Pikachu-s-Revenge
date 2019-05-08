@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1443228642 source:/home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/armas.c
+	"armas.h"
+
+1443200271 /home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/armas.h
+	"utilitarios.h"
+	<SOIL/SOIL.h>
+	<GL/gl.h>
+	<stdio.h>
+	<time.h>
+
+1442346644 /home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/utilitarios.h
+	<GL/glut.h>
+
+1443230170 source:/home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/criatura.c
+	"criatura.h"
+	"level.h"
+	"armas.h"
+
+1443218504 /home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/criatura.h
+	"utilitarios.h"
+	<SOIL/SOIL.h>
+	<stdio.h>
+	<time.h>
+
+1443151816 /home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/level.h
+	"utilitarios.h"
+	"escrita.h"
+	<stdio.h>
+	<GL/gl.h>
+	<SOIL/SOIL.h>
+
+1443152095 /home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/escrita.h
+	"utilitarios.h"
+	<SOIL/SOIL.h>
+	<GL/gl.h>
+	<stdio.h>
+	<time.h>
+
+1443221538 source:/home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/escrita.c
+	"escrita.h"
+
+1443223855 source:/home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/level.c
+	"level.h"
+
+1443230376 source:/home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/main.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<SOIL/SOIL.h>
+	"criatura.h"
+	"mira.h"
+	"utilitarios.h"
+	"level.h"
+	"controle.h"
+	"escrita.h"
+	"armas.h"
+
+1443221300 /home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/mira.h
+	"utilitarios.h"
+	<stdio.h>
+	<GL/gl.h>
+	<math.h>
+	<SOIL/SOIL.h>
+
+1442351969 /home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/controle.h
+
+1443218132 source:/home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/mira.c
+	"mira.h"
+	"armas.h"
+
+1442347066 source:/home/kael/Desktop/Programas/CG/TP1/Sniper Shot (Senpai)/utilitarios.c
+	"utilitarios.h"
+
+1443228642 source:/home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/armas.c
+	"armas.h"
+
+1443200271 /home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/armas.h
+	"utilitarios.h"
+	<SOIL/SOIL.h>
+	<GL/gl.h>
+	<stdio.h>
+	<time.h>
+
+1442346644 /home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/utilitarios.h
+	<GL/glut.h>
+
+1443230170 source:/home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/criatura.c
+	"criatura.h"
+	"level.h"
+	"armas.h"
+
+1443218504 /home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/criatura.h
+	"utilitarios.h"
+	<SOIL/SOIL.h>
+	<stdio.h>
+	<time.h>
+
+1443151816 /home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/level.h
+	"utilitarios.h"
+	"escrita.h"
+	<stdio.h>
+	<GL/gl.h>
+	<SOIL/SOIL.h>
+
+1443152095 /home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/escrita.h
+	"utilitarios.h"
+	<SOIL/SOIL.h>
+	<GL/gl.h>
+	<stdio.h>
+	<time.h>
+
+1443221538 source:/home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/escrita.c
+	"escrita.h"
+
+1443223855 source:/home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/level.c
+	"level.h"
+
+1443230376 source:/home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/main.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<SOIL/SOIL.h>
+	"criatura.h"
+	"mira.h"
+	"utilitarios.h"
+	"level.h"
+	"controle.h"
+	"escrita.h"
+	"armas.h"
+
+1443221300 /home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/mira.h
+	"utilitarios.h"
+	<stdio.h>
+	<GL/gl.h>
+	<math.h>
+	<SOIL/SOIL.h>
+
+1442351969 /home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/controle.h
+
+1443218132 source:/home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/mira.c
+	"mira.h"
+	"armas.h"
+
+1442347066 source:/home/kael/Desktop/Programas/CG/TP1/Pikachu's Revenge/utilitarios.c
+	"utilitarios.h"
+
